@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="ind1.css">
+</head>
+<body >
+   <div class="card" id="card">  
+    <h1>login</h1>
+
+   <input class="int" placeholder="name" type="text" id="text">
+                     
+   <input class="int1" placeholder="password" type="password" id="password">
+   <div class="design "></div>
+   <button id="submit"  >SUBMIT</button>
+   
+   
+</div>
+<div class="card1" id="card1">
+    <div class="center">
+    <div class=" karte">
+        <div class="visa">
+            visa
+        </div>
+        <div class="sim"> </div>
+        <div class="bar"> 
+            <h1 id="cod">####   ####  ####  ####</h1>
+        </div>
+        <div class="name"> 
+            <H4> card holder</h4>
+            <h3 id="name">FULL NAME</h31>
+        </div>
+        <div class="date"> 
+            <H4> Expires</h4>
+            <h3 id="dat">MM/YY</h31>
+        </div>
+    </div>
+</div>
+<div class="bn">
+    <label for="card number" >card number</label>
+    <input class="inp1"  id="credit-card" type="text"pattern="[0-9]{4}-[0-9]{4}-[0-9]{4}-[0-9]{4}" maxlength="22">
+    
+   </div>
+   <div class="bn2">
+    <label for="card number" >card horders</label>
+    <input class="inp1" id="num">
+   </div>
+   <div class="bn3">
+    <div class="first">
+    <label for="card number" class="lab" >expiration date</label>
+    <input type="number" class="inp2" id="month" name="month" min="0" max="31" step="1" placeholder="month">
+    <input type="number" class="inp2" id="year" name="year" min="1900" max="2100" step="1" placeholder="year">
+    </div>
+    <div class="first">
+        <label for="card number" class="lab" >cvv</label>
+        <input type="text" class="inp2" id="cvv">  
+    </div>
+   </div>
+   <button id="submit1"   class="btt">SUBMIT</button>
+</div>
+<script src="hauptmain.js"></script>
+</body>
+</html>
