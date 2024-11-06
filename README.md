@@ -17,6 +17,7 @@ Usage in Project: CSS is used to enhance the design of the login form, improving
 Project Access:
 You can access the project by logging in here using the following credentials:
 
+ link : https://omarmhiri1998.github.io/bankkarte/bankkarte_project/html_folder/index1.html
 Username: omar
 Password: training
 Please note that access is restricted to these credentials only, ensuring secure access for authorized users.
