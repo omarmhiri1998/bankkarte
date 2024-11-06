@@ -107,7 +107,7 @@ box-shadow:0 0 62px -8px rgb(145, 145, 158) }
     left: 9%;
 }
 .karte {
-    background-image:url("istockphoto-1248542684-612x612.jpg") ;
+    background-image:url("../image_folder/istockphoto-1248542684-612x612.jpg") ;
     width: 400px;
     height: 250px;
     background-size: cover;
