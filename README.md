@@ -17,5 +17,10 @@ Purpose: CSS is used for styling and layout. It allows for creating visually app
 Usage in Project: CSS will style the login form to enhance user experience and create a visually engaging bank card that looks like a real one, with gradients, shadows, and precise layouts. CSS transitions and animations can also be applied for smooth visual effects, making the interface more dynamic.
 
 
----- clone projcet  vuisualt soce  
+Link : 
 
+https://omarmhiri1998.github.io/bankkarte/bankkarte_project/html_folder/index1.html
+
+
+username: "omar"
+training : "training"
